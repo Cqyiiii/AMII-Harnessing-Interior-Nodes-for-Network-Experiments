@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+
+# Results (Optional: keep if you want to upload results, remove if you want to ignore them)
+# results/*.pkl
